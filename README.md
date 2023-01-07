@@ -57,6 +57,6 @@ Which should result in response similar to the following (removed `input` conten
 }
 ```
 
-I have successfully deployment this project in personal account and verified the output in the Postman.
+I have successfully completed the deployment of this project in personal account and verified the output in the Postman.
 
 Thank you.
