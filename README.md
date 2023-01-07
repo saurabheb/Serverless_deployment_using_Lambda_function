@@ -59,4 +59,4 @@ Which should result in response similar to the following (removed `input` conten
 
 I have successfully deployment this project in personal account and verified the output in the Postman.
 
-Thanks you.
+Thank you.
